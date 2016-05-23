@@ -41,7 +41,7 @@ Estamos ansiosos para receber seus comentários. Diga-nos como ele te ajuda, com
 
 ## Sobre o alerta proativo
 
-* *Por que eu recebei esse email?*
+* *Por que eu recebi esse email?*
  * A detecção proativa analisou a telemetria que seu aplicativo enviou ao Application Insights e detectou um problema de desempenho em seu aplicativo. 
 * *A notificação significa que, definitivamente, tenho um problema?*
  * Não. É simplesmente uma sugestão sobre algo que talvez você queira examinar mais detalhadamente. 
